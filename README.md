@@ -1,6 +1,6 @@
-# 🚀 SaldoUp API
+# 🚀 SaldoUp APP
 
-O **SaldoUp API** é o ecossistema de backend de uma aplicação voltada para o controle de finanças pessoais e gestão de saldos. O projeto foi desenvolvido com foco em alta performance, tipagem forte e uma arquitetura limpa, modular e escalável.
+O **SaldoUp APP** é o ecossistema de backend de uma aplicação voltada para o controle de finanças pessoais e gestão de saldos. O projeto foi desenvolvido com foco em alta performance, tipagem forte e uma arquitetura limpa, modular e escalável.
 
 ---
 
